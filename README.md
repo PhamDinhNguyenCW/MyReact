@@ -24,3 +24,5 @@ Bài tập môn React
 21. [Câu 21]()
 ## Thực hành
 1. [Thực hành dùng props và sate](https://codepen.io/phamdinhnguyencw/pen/abKGgWJ)
+2. [Bài Thực Hành Số 2](https://codepen.io/phamdinhnguyencw/pen/QWxZByO)
+3. 
