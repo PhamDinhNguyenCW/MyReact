@@ -21,7 +21,7 @@ Bài tập môn React
 18. [Câu 18](https://codepen.io/phamdinhnguyencw/pen/RwJYdzx)
 19. [Câu 19](https://codepen.io/phamdinhnguyencw/pen/eYKLoRz)
 20. [Câu 20](https://codepen.io/phamdinhnguyencw/pen/RwJYOvE)
-21. [Câu 21]()
+21. [Câu 21](https://codepen.io/phamdinhnguyencw/pen/JjZaqPv)
 ## Thực hành
 1. [Thực hành dùng props và sate](https://codepen.io/phamdinhnguyencw/pen/abKGgWJ)
 2. [Bài Thực Hành Số 1](https://codepen.io/phamdinhnguyencw/pen/QWxJywZ)
