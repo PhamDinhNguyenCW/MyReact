@@ -26,5 +26,5 @@ Bài tập môn React
 1. [Thực hành dùng props và sate](https://codepen.io/phamdinhnguyencw/pen/abKGgWJ)
 2. [Bài Thực Hành Số 1](https://codepen.io/phamdinhnguyencw/pen/QWxJywZ)
 3. [Bài Thực Hành Số 2](https://codepen.io/phamdinhnguyencw/pen/QWxZByO)
-4. [Bài Thực Hành Số 3](https://codepen.io/phamdinhnguyencw/pen/dyKQYxp)
+4. [Bài Thực Hành Số 3](https://codesandbox.io/s/broken-smoke-7z8npz?file=/src/components/Counter.jsx)
 5. [Dự án hoàn chỉnh]()
